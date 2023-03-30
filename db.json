@@ -1,5 +1,4 @@
-{
-  "items": [
+ [
     {
       "id": 1,
       "name": "Potato",
@@ -48,5 +47,4 @@
       "price": 100,
       "type": "Vegetables"
     }
-  ]
-}
+ ]
